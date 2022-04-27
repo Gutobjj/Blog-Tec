@@ -1,5 +1,7 @@
 body {
     background-color: rgb(184, 30, 30);
+    max-width: 900px;
+    margin: auto;
 }
 
 #title, .subtitle, .post_title{
@@ -8,7 +10,8 @@ body {
 
 .photo {
 border: ipx solid #000;
-border-radius: 50%;
+width: 100%;
+ w
 }
 .post_title{
     font-size: 16px;
@@ -28,9 +31,11 @@ border-radius: 50%;
 .post_content {
  margin: 0;
 margin-bottom: 15px;
+text-align: center;
 }
 
  .post_image {
  margin-bottom: 15px;
+ width: 100%;
 
  }
