@@ -1,2 +1,1 @@
-# projeto-site
- projeto de um site criado durante o curso
+#  primeiros pasoss com html
